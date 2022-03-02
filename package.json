@@ -1,0 +1,30 @@
+{
+  "name": "node-hex-to-rgb",
+  "version": "0.0.1",
+  "description": "Simple utility to convert HEX color codes to RGB Values",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "node test.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcnaveen/node-hex-to-rgb.git"
+  },
+  "author": "mcnaveen <me@mcnaveen.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcnaveen/node-hex-to-rgb/issues"
+  },
+  "homepage": "https://github.com/mcnaveen/node-hex-to-rgb#readme",
+  "keywords": [
+    "hex",
+    "rgb",
+    "color",
+    "convert",
+    "converter"
+  ]
+}
